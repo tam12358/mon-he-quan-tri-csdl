@@ -1,0 +1,420 @@
+STT	Tên Món	Thành Phần	Vị	Cách Chế biến	Loại Món	Vùng Miền	UrlImage	Price	TRÙNG
+STT	Tên Món	Thành Phần	Vị	Cách Chế biến	Loại Món	Vùng Miền	UrlImage	Price	1
+1	thắng cố	thịt ngựa, lòng ngựa, gia vị truyền thống	đậm, béo	hầm	món chính	Trung du và miền núi phía Bắc	https://nhahangchotinhsapa.vn/wp-content/uploads/2024/11/thang-co-ha-noi.jpg	80000	1
+2	thịt trâu gác bếp	thịt trâu, muối, ớt, mắc khén	mặn, cay	gác bếp hun khói	món nhắm	Trung du và miền núi phía Bắc	https://cdn2.fptshop.com.vn/unsafe/Uploads/images/tin-tuc/158953/Originals/cach-lam-thit-trau-gac-bep-bang-lo-nuong-4.jpg	60000	1
+3	cơm lam	gạo nếp, ống tre	thơm, bùi	nướng	tinh bột	Trung du và miền núi phía Bắc	https://cdnphoto.dantri.com.vn/lNbIsfnQ6O8WhQCwd6k2f3nAkCo=/thumb_w/1155/2021/12/18/comlamtaynguyen7-1639845775533.jpg	50000	1
+4	xôi ngũ sắc	gạo nếp, lá rừng tạo màu	thơm, dẻo	hấp	tinh bột	Trung du và miền núi phía Bắc	https://cdn.pastaxi-manager.onepas.vn/content/uploads/articles/trangiang/New%20folder%20(4)/tieude.png	60000	1
+5	bánh dày người mông	thịt heo, gia vị	đậm đà	gác bếp hun khói	món nhắm	Trung du và miền núi phía Bắc	https://cdn2.fptshop.com.vn/unsafe/1920x0/filters:format(webp):quality(75)/lap_xuong_gac_bep_0aaccbb83f.jpg	70000	1
+6	cá suối nướng	gạo nếp	dẻo, thơm	giã và nặn bánh	bánh	Trung du và miền núi phía Bắc	https://ddk.1cdn.vn/2021/02/13/image.daidoanket.vn-images-upload-vanpt-02032021-_anh-2-5adc.jpg	50000	1
+7	măng đắng	cá suối, lá chuối	ngọt, thơm	nướng	món chính	Trung du và miền núi phía Bắc	https://ddk.1cdn.vn/thumbs/1200x630/2020/06/14/image.daidoanket.vn-images-upload-2020-6-16-_anhtrang23-dt22116.jpg	70000	1
+8	gà đen hấp	măng rừng	đắng nhẹ	luộc, nướng, xào	rau	Trung du và miền núi phía Bắc	https://vov4.vov.vn/sites/default/files/styles/large_watermark/public/2023-01/mangdang.jpg	60000	1
+9	cháo ấu tẩu	gà đen, lá mắc mật	thơm, ngọt	hấp	món chính	Trung du và miền núi phía Bắc	https://www.haithin.com/data/cms-image/AmThuc/ga-den-hap-la-ot/ga-den-hap-otct.jpg	70000	1
+10	bún chả hà nội	củ ấu tẩu, gạo, thịt băm	bùi, béo	ninh nhừ	món nóng	Trung du và miền núi phía Bắc	https://images.baodantoc.vn/thumbs/600x315/uploads/2021/Th%C3%A1ng_11/Ng%C3%A0y_24/NG%C3%82N/m%C3%B3n%20%C4%83n/anh%20tham.jpg	70000	1
+11	Phở bò	Bánh phở, thịt bò, nước dùng xương, gừng, hành	Thanh, ngọt, đậm	Luộc, nấu nước dùng	Món chính, món sáng	Đồng Bằng Sông Hồng	https://daiductai.vn/upload/filemanager/B%C3%BAn%20ch%E1%BA%A3/bun-cha.jpg	60000	1
+12	Phở gà	Bánh phở, thịt gà, nước dùng xương gà, gừng	Thanh, nhẹ	Luộc, nấu nước dùng	Món chính, món sáng	Đồng Bằng Sông Hồng	https://fohlafood.vn/cdn/shop/articles/bi-quyet-nau-phi-bo-ngon-tuyet-dinh.jpg?v=1712213789	70000	1
+13	Chả cá Lã Vọng	Cá lăng, thì là, nghệ, mắm tôm	Đậm, thơm	Nướng, áp chảo	Món chính	Đồng Bằng Sông Hồng	https://www.huongnghiepaau.com/wp-content/uploads/2017/08/cach-nau-pho-ga-ngon.jpg	80000	1
+14	Nem rán	Thịt băm, miến, mộc nhĩ, trứng, bánh đa nem	Mặn, giòn	Cuốn, chiên	Món chính, món nhắm	Đồng Bằng Sông Hồng	https://www.cet.edu.vn/wp-content/uploads/2018/08/cha-ca-la-vong.jpg	70000	1
+15	Bánh cuốn Thanh Trì	Bột gạo, thịt băm, mộc nhĩ, hành khô	Mềm, thơm	Hấp	Món ăn kèm, món sáng	Đồng Bằng Sông Hồng	https://cdn.tgdd.vn/2022/10/CookDish/cach-lam-mon-nem-ran-thom-ngon-chuan-vi-don-gian-tai-nha-avt-1200x676.jpg	60000	1
+16	Bánh tôm Hồ Tây	Tôm, bột mì, khoai lang	Giòn, ngọt nhẹ	Chiên	Món ăn chơi	Đồng Bằng Sông Hồng	https://cdn3.ivivu.com/2022/09/B%C3%A1nh-cu%E1%BB%91n-Thanh-Tr%C3%AC-ivivu-1.jpg	60000	1
+17	Bún riêu cua	Cua đồng, bún, cà chua, đậu, mắm tôm	Chua, đậm	Nấu canh, chan	Món chính	Đồng Bằng Sông Hồng	https://cdn.xanhsm.com/2024/12/dfdc574a-banh-tom-ho-tay-18.jpg	50000	1
+18	Canh cá Quỳnh Côi	Cá trắm, dọc mùng, rau thì là	Chua nhẹ, ngọt	Nấu canh	Món chính	Đồng Bằng Sông Hồng	https://cdn.tgdd.vn/2020/08/CookProduct/Untitled-1-1200x676-10.jpg	50000	1
+19	Bánh đa cua Hải Phòng	Bánh đa đỏ, cua đồng, rau muống, chả lá lốt	Ngọt, đậm	Nấu, chan	Món chính	Đồng Bằng Sông Hồng	https://iv.vnecdn.net/giadinh/images/web/2021/04/15/cach-lam-canh-ca-quynh-coi-tai-nha-1618482014.jpg	80000	1
+20	Bún cá rô đồng	Cá rô, bún, rau cải, thì là	Ngọt, thơm	Rán cá, nấu nước dùng	Món chính	Đồng Bằng Sông Hồng	https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShEZAJYO0MEF0dkY6hNcmtAt63AmUJYrPeCQ&s	70000	1
+21	Bánh gai Ninh Giang	Lá gai, bột nếp, đậu xanh, dừa	Ngọt, dẻo	Hấp	Món ăn chơi, món quà	Đồng Bằng Sông Hồng	https://cdn.tgdd.vn/Files/2020/05/24/1257901/cach-nau-bun-ca-ro-dong-thom-ngon-hap-dan-khong-bi-tanh-202005240907171845.jpg	80000	1
+22	Bánh đúc lạc	Bột gạo, lạc, nước mắm	Nhạt, bùi	Hấp, luộc	Món ăn chơi	Đồng Bằng Sông Hồng	https://media.thuonghieucongluan.vn/resize_640x360/uploads/2022/06/01/banh-2-1654075458.jpg	60000	1
+23	Xôi xéo	Gạo nếp, đậu xanh, hành phi, mỡ gà	Dẻo, béo	Đồ xôi	Món ăn sáng	Đồng Bằng Sông Hồng	https://cdn.tgdd.vn/2020/10/CookProduct/1260-1200x676-31.jpg	80000	1
+24	Cháo sườn	Gạo tẻ, sườn non, hành lá, quẩy	Ngọt, béo	Nấu cháo	Món sáng, món nhẹ	Đồng Bằng Sông Hồng	https://cdn.tgdd.vn/2022/01/CookRecipe/Avatar/xoi-xeo-gao-nep-nau-bang-noi-com-dien-thumbnail.jpg	60000	1
+25	Ốc luộc	Ốc, sả, lá chanh	Ngọt, cay	Luộc	Món ăn chơi	Đồng Bằng Sông Hồng	https://hawonkoo.vn/medias/thumbs/74/images-2023-10-cach-nau-chao-suon-ngon-chuan-vi-ha-noi-don-gian-tai-nha-1-1200x0.jpg.webp	80000	1
+26	Bún thang	Bún, trứng, gà xé, giò lụa, củ cải khô	Thanh, ngọt	Luộc, chan nước	Món chính	Đồng Bằng Sông Hồng	https://i-giadinh.vnecdn.net/2022/01/06/Thanh-pham-2-3687-1641477606.jpg	50000	1
+27	Giò chả Ước Lễ	Thịt lợn, nước mắm, lá chuối	Đậm, thơm	Luộc, hấp	Món chính, món tết	Đồng Bằng Sông Hồng	https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjD1cwgBJClcwkjgYdr9PsQMN2ySHBlV8AOA&s	70000	1
+28	Thịt kho tàu	Thịt ba chỉ, trứng, nước dừa, nước mắm	Mặn, ngọt	Kho	Món chính	Đồng Bằng Sông Cửu Long	https://i.ytimg.com/vi/H6ZeR1poY-Q/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAjc1VcxS0Ge6UK_HaOCWiQM0PSJA	60000	1
+29	Cá kho làng Vũ Đại	Cá trắm, nước hàng, riềng, nước mắm	Đậm, béo	Kho niêu	Món chính	Đồng Bằng Sông Hồng	https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMOsvL8OPC2dg3GVYJBmQwzdbWSQYozlVi0A&s	50000	1
+30	Canh chua cá lóc	Cá lóc, me, thơm, bạc hà, cà chua	Chua, ngọt	Nấu canh	Món chính	Đồng Bằng Sông Cửu Long	https://www.huongnghiepaau.com/wp-content/uploads/2018/03/to-canh-chua-ca-loc-thanh-mat.jpg	70000	1
+31	Chả mực Hạ Long	Mực tươi, gia vị, tiêu	Dai, thơm	Giã tay, chiên	Món chính, món đặc sản	Duyên Hải Nam Trung Bộ	https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQI8dE2WAWHUEJfs_SEJdAxm3KqwzLHg02ToQ&s	60000	1
+32	Gà Đông Tảo	Gà Đông Tảo, gia vị	Đậm, thơm	Luộc, hấp, nướng	Món chính	Đồng Bằng Sông Hồng	https://amthucvanho.com.vn/wp-content/uploads/2019/04/nhung-mon-ngon-tuyet-cu-meo-tu-ga-dong-tao-khong-the-bo-lo.jpg	60000	1
+33	Vịt cỏ Vân Đình	Vịt cỏ, sả, gừng, mắm tôm	Đậm, thơm	Luộc, nướng, quay	Món chính	Đồng Bằng Sông Hồng	https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQK9gm4KlxBWP-_E1RkOYttj1Uu-WUrRS2EWg&s	70000	1
+34	Cà pháo mắm tôm	Cà pháo, mắm tôm, tỏi, ớt	Mặn, cay	Muối chua	Món ăn kèm	Đồng Bằng Sông Hồng	https://pandafood.com.vn/wp-content/uploads/2019/07/ca-phao-mam-tom-2.jpg	50000	1
+35	Nem chua Thanh Hóa	Thịt sống, bì, lá đinh lăng, tỏi	Chua, cay	Lên men	Món nhắm	Bắc Trung Bộ	https://static.vinwonders.com/production/gia-nem-chua-o-thanh-hoa.jpg	60000	1
+36	Bánh chưng	Gạo nếp, đậu xanh, thịt mỡ, lá dong	Dẻo, béo	Luộc	Món truyền thống, món tết	Đồng Bằng Sông Hồng	https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYrCLTt1BfxaUjEQSbjo3Yf_AsJrYqrgk4Rg&s	80000	1
+37	Bánh dày	Gạo nếp, muối, đậu xanh	Dẻo, nhạt	Hấp, giã tay	Món ăn kèm	Đồng Bằng Sông Hồng	https://langcomvong.com/uploads/images/banh-day-quan-ganh(1).jpg	80000	1
+38	Bánh giò	Bột gạo, thịt băm, mộc nhĩ, hành	Mềm, thơm	Hấp	Món sáng	Đồng Bằng Sông Hồng	https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRyUmDmhTK0IELjdT9I8-CvJsj6X5j614EPQ&s	70000	1
+39	Bún mọc	Bún, mọc (giò sống), nấm hương	Ngọt, thanh	Nấu nước dùng	Món chính	Đồng Bằng Sông Hồng	https://upload.wikimedia.org/wikipedia/commons/2/2c/Bun_Moc_Ha_Noi.jpg	50000	1
+40	Bánh khúc	Lá khúc, gạo nếp, đậu xanh, thịt mỡ	Dẻo, béo	Hấp	Món ăn sáng	Đồng Bằng Sông Hồng	https://daylambanh.edu.vn/wp-content/uploads/2017/09/banh-khuc-deo-thom-bui.jpg	50000	1
+41	Bún bung	Bún, sườn, dọc mùng, hành	Chua nhẹ, ngọt	Nấu, chan	Món chính	Đồng Bằng Sông Hồng	https://www.huongnghiepaau.com/wp-content/uploads/2024/06/cach-nau-bun-bung-suon.jpg	80000	1
+42	Canh cua rau đay	Cua đồng, rau đay, mồng tơi	Mát, thanh	Nấu canh	Món chính	Đồng Bằng Sông Hồng	https://barona.vn/storage/cong-thuc/canh-cua-rau-day/canh-cua-rau-day.jpg	50000	1
+43	Cua đồng rang muối	Cua đồng, muối, tiêu, tỏi	Đậm, mặn	Rang	Món ăn chơi	Đồng Bằng Sông Hồng	https://cdn.tgdd.vn/2020/09/CookRecipe/GalleryStep/thanh-pham-629.jpg	50000	1
+44	Bún đậu mắm tôm	Bún, đậu phụ, mắm tôm, chả cốm, thịt luộc	Mặn, đậm	Luộc, chiên	Món chính	Đồng Bằng Sông Hồng	https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTh3CHOQnt6hhgsR7Eipw3jbsy6Ig9xF_-05Q&s	60000	1
+45	Nem nắm Giao Thủy	Thịt lợn thính, tỏi, lá sung	Chua, thơm	Trộn, ăn sống	Món nhắm	Đồng Bằng Sông Hồng	https://i-giadinh.vnecdn.net/2024/03/29/Bc7Thnhphm17-1711696946-6885-1711697066.jpg	60000	1
+46	Canh rau ngót thịt băm	Rau ngót, thịt băm, gia vị	Ngọt, thanh	Nấu canh	Món chính	Đồng Bằng Sông Hồng	https://cookbeo.com/media/2021/07/canh-rau-ngot-nhat-thit-bam/rau-ngot-nhat-nau-thit-bam-4x5.jpg	60000	1
+47	Lươn om chuối đậu	Lươn, chuối xanh, đậu phụ, nghệ	Đậm, béo, cay	Om	Món chính	Bắc Trung Bộ	https://cdn.tgdd.vn/Files/2021/08/25/1377838/vao-bep-lam-mon-luon-om-chuoi-dau-thom-ngon-chuan-vi-bac-202201061050563593.jpg	70000	1
+48	Thịt luộc cà pháo	Thịt ba chỉ, cà pháo muối, mắm tôm	Mặn, béo	Luộc	Món chính	Đồng Bằng Sông Hồng	https://comnieubepviet.com/thumbs/675x0x3/upload/product/bepviet2071-copy-5350.jpg	50000	1
+49	Cháo trai	Gạo, trai, hành phi	Ngọt, thơm	Nấu cháo	Món sáng	Đồng Bằng Sông Hồng	https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqupA7tnUs_d_IqxpV9dtxGJjmzOXENhbTNQ&s	70000	1
+50	Miến lươn	Miến, lươn, rau răm, hành phi	Ngọt, cay nhẹ	Xào khô, chan nước	Món chính	Bắc Trung Bộ	https://i-giadinh.vnecdn.net/2022/11/10/Buoc-6-thanh-pham-6-4302-1668073404.jpg	70000	1
+51	Mì vằn thắn	Mì trứng, vằn thắn, xá xíu, rau cải	Ngọt, thanh	Luộc, chan nước dùng	Món chính	Đồng Bằng Sông Hồng	https://media-cdn-v2.laodong.vn/Storage/NewsPortal/2022/11/6/1113546/An-Nam-2-1.jpg	60000	1
+52	Cá rô kho tương	Cá rô, tương bần, riềng, ớt	Đậm, mặn	Kho	Món chính	Đồng Bằng Sông Hồng	https://cdn.tgdd.vn/2021/05/CookRecipe/GalleryStep/thanh-pham-924.jpg	70000	1
+53	Cá diếc kho khế	Cá diếc, khế chua, nghệ, ớt	Chua, mặn	Kho	Món chính	Đồng Bằng Sông Hồng	https://cdn.tgdd.vn/2021/03/CookProduct/1-1200x676-47.jpg	80000	1
+54	Sườn xào chua ngọt	Sườn non, giấm, đường, tương cà	Chua, ngọt, mặn	Chiên, xào	Món chính	Đông Nam Bộ	https://i.ytimg.com/vi/xn6NogjFrmA/maxresdefault.jpg	80000	1
+55	Trứng đúc thịt	Trứng, thịt băm, mộc nhĩ, hành	Béo, mặn	Hấp, rán	Món chính	Đồng Bằng Sông Hồng	https://beptruong.edu.vn/wp-content/uploads/2013/07/trung-duc-thit.jpg	80000	1
+56	Cá om dưa	Cá trắm, dưa chua, cà chua, thì là	Chua, đậm	Om	Món chính	Đồng Bằng Sông Hồng	https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-XuPLALvfqMBoZ8oYWAkIQgan2BPagK7kWg&s	80000	1
+57	Gỏi cuốn	Bún, tôm, thịt luộc, rau sống	Thanh, nhẹ	Cuốn	Món khai vị	Đồng Bằng Sông Cửu Long	https://i.ytimg.com/vi/w34Qnc-9KBU/hqdefault.jpg	80000	1
+58	Gà luộc lá chanh	Gà ta, lá chanh, muối	Ngọt, thơm	Luộc	Món chính	Đồng Bằng Sông Hồng	https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaZNtRT-cZSIwA4lPcvC0LILEcCb-4FBWlIg&s	50000	1
+59	Thịt đông	Thịt chân giò, mộc nhĩ, nước mắm	Mặn, thanh	Hầm, để nguội	Món chính, món tết	Đồng Bằng Sông Hồng	https://cdn.tgdd.vn/2020/08/CookProduct/Untitled-1-1200x676-9.jpg	50000	1
+60	Canh măng	Măng khô, chân giò, mộc nhĩ	Ngọt, đậm	Hầm	Món chính	Đồng Bằng Sông Hồng	https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQebPSs7onRBC-e27Qq2N-alLBp7zNn-vz_qw&s	60000	1
+61	Bánh tro	Gạo nếp, nước tro tàu, đường mật	Dẻo, ngọt	Luộc	Món ăn chơi, món lễ tết	Đồng Bằng Sông Hồng	https://vietfood.org.vn/wp-content/uploads/2022/03/banhtro2.jpg	80000	1
+62	Bánh cốm	Cốm, đậu xanh, dừa, đường	Ngọt, dẻo	Gói, hấp	Món tráng miệng	Đồng Bằng Sông Hồng	https://bizweb.dktcdn.net/100/444/178/products/banh-com-1721450582851.jpg?v=1721456230470	60000	1
+63	Bánh phu thê	Bột năng, đậu xanh, dừa, lá dứa	Ngọt, dẻo	Hấp	Món lễ cưới	Đồng Bằng Sông Hồng	https://nguyenninhhanoi.com/wp-content/uploads/2024/01/banh-phu-the.jpg	70000	1
+64	Bánh nếp	Gạo nếp, đậu xanh, thịt mỡ	Dẻo, béo	Hấp	Món ăn chơi	Đồng Bằng Sông Hồng	https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Vietnam_08_-_161_-_sticky_rice_at_the_market_%283187495012%29.jpg/1200px-Vietnam_08_-_161_-_sticky_rice_at_the_market_%283187495012%29.jpg	80000	1
+65	Chè đỗ đen	Đỗ đen, đường, dừa nạo	Ngọt, mát	Ninh, nấu chè	Món tráng miệng	Đồng Bằng Sông Hồng	https://cdn.tgdd.vn/2021/11/CookRecipe/Avatar/che-dau-den-nuoc-cot-dua-thumbnail.jpg	70000	1
+66	Chè sen	Hạt sen, đường phèn	Ngọt, thanh	Nấu chè	Món tráng miệng	Đồng Bằng Sông Hồng	https://daynauan.info.vn/wp-content/uploads/2018/08/che-hat-sen-duong-phen.jpg	80000	1
+67	Chè kho	Đỗ xanh, đường, gừng	Ngọt, đặc	Sên khô	Món tráng miệng	Đồng Bằng Sông Hồng	https://cdn.tgdd.vn/2023/12/CookDish/che-kho-la-gi-huong-dan-2-cach-nau-che-kho-don-gian-ngay-tai-avt-1200x676.jpg	60000	1
+68	Chè bưởi	Vỏ bưởi, đỗ xanh, nước cốt dừa	Ngọt, thơm	Nấu chè	Món tráng miệng	Đồng Bằng Sông Cửu Long	https://dayphache.edu.vn/wp-content/uploads/2021/05/thanh-pham-che-buoi-dep-mat.jpg	80000	1
+69	Chè lam	Bột nếp, mạch nha, gừng	Dẻo, ngọt	Nấu, nặn	Món ăn chơi	Đồng Bằng Sông Hồng	https://cdn.tgdd.vn/Files/2021/06/28/1363849/che-lam-dac-san-o-dau-tai-sao-lai-goi-la-che-lam-202106281337044345.gif	80000	1
+70	Chả trứng hấp	Trứng, thịt băm, miến, mộc nhĩ	Béo, thơm	Hấp	Món chính	Đồng Bằng Sông Hồng	https://i.ytimg.com/vi/m9b5yzJP3gU/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLD9tENlKeynvYy-eCUC_OFtKEyheQ	80000	1
+71	Đậu rán	Đậu phụ, dầu ăn, muối	Giòn, mặn	Rán	Món ăn kèm	Đồng Bằng Sông Hồng	https://media-cdn-v2.laodong.vn/Storage/NewsPortal/2021/6/22/923096/1-1541756715-487-Wid.jpg	60000	1
+72	Đậu nhồi thịt	Đậu phụ, thịt băm, mộc nhĩ	Đậm, thơm	Rán, sốt cà	Món chính	Đồng Bằng Sông Hồng	https://khaihoanphuquoc.com.vn/wp-content/uploads/2023/10/dau-hu-nhoi-thit-1.jpg	70000	1
+73	Rau muống xào tỏi	Rau muống, tỏi, dầu ăn	Đậm, thơm	Xào	Món ăn kèm	Đồng Bằng Sông Hồng	https://file.hstatic.net/200000385717/article/guide-vegetarians-ha-giang-rau-muong-xao-toi-1024x683_e5aa72a3c82b444b9ea24d55723f7a24.jpg	60000	1
+74	Canh bí nấu tôm	Bí xanh, tôm, hành lá	Ngọt, mát	Nấu canh	Món chính	Đồng Bằng Sông Hồng	https://i.ex-cdn.com/nongnghiepmoitruong.vn/files/dungct/2021/06/24/mon-ngon-moi-ngay-canh-bi-dao-xanh-tom-tuoi-123712_20210624_153.jpg	50000	1
+75	Canh cải thịt băm	Rau cải, thịt băm, hành	Thanh, ngọt	Nấu canh	Món chính	Đồng Bằng Sông Hồng	https://annatabeachhotel.vn/wp-content/uploads/2022/10/b1199d27-4508-4561-8817-2bae6c14179c.jpeg	50000	1
+76	Thịt rang cháy cạnh	Thịt ba chỉ, nước mắm, hành khô	Mặn, giòn	Rang	Món chính	Đồng Bằng Sông Hồng	https://i-giadinh.vnecdn.net/2023/04/05/Thanh-pham-1-1-9343-1680689244.jpg	70000	1
+77	Lạc rang	Lạc, muối, dầu ăn	Bùi, mặn	Rang	Món ăn vặt	Đồng Bằng Sông Hồng	https://cdn2.fptshop.com.vn/unsafe/1920x0/filters:format(webp):quality(75)/2024_5_13_638511979750318955_lac-rang-muoi-duong-1.jpg	50000	1
+78	Cá chép om dưa	Cá chép, dưa chua, cà chua	Chua, đậm	Om	Món chính	Đồng Bằng Sông Hồng	https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-XuPLALvfqMBoZ8oYWAkIQgan2BPagK7kWg&s	60000	1
+79	Canh trứng cà chua	Trứng, cà chua, hành lá	Chua, ngọt	Nấu canh	Món chính	Đồng Bằng Sông Hồng	https://www.huongnghiepaau.com/wp-content/uploads/2024/07/cach-nau-canh-trung-ca-chua.jpg	70000	1
+80	Nem rán chay	Miến, mộc nhĩ, rau củ, bánh đa nem	Giòn, đậm	Cuốn, rán	Món ăn chay	Đồng Bằng Sông Hồng	https://cdnphoto.dantri.com.vn/IfloRYzAwOfHAyHOC-XuHq57lc8=/thumb_w/990/2021/06/23/nem-chay-1-1624433677766.jpg	60000	1
+81	Thịt gà rang gừng	Thịt gà, gừng, nước mắm	Cay nhẹ, thơm	Rang	Món chính	Đồng Bằng Sông Hồng	https://storage.googleapis.com/onelife-public/blog.onelife.vn/2021/10/cach-lam-ga-rang-gung-thom-lung-mon-chinh-165613592749.jpg	80000	1
+82	Thịt bò xào rau muống	Thịt bò, rau muống, tỏi	Đậm, thơm	Xào	Món chính	Đồng Bằng Sông Hồng	https://homestory.com.vn/wp-content/uploads/2023/06/thanh-pham-dia-rau-muong-xao-bo-xanh-muot-hap-dan.jpg	60000	1
+83	Thịt bò kho	Thịt bò, nước dừa, tiêu	Mặn, đậm	Kho	Món chính	Đồng Bằng Sông Cửu Long	https://cdn.tgdd.vn/Files/2018/12/13/1137914/cach-nau-bo-kho-tai-nha-bang-goi-gia-vi-bo-kho-don-gian-ngon-dung-dieu-202107211101519924.jpg	70000	1
+84	Canh khoai sọ	Khoai sọ, xương, rau ngót	Ngọt, bùi	Nấu canh	Món chính	Đồng Bằng Sông Hồng	https://cdn.abphotos.link/photos/resized/1024x/2023/10/04/1696409213_OL0muBSlxcsyM1DA_1696412610-phpqh70dg.png	50000	1
+85	Thịt nấu đông	Thịt chân giò, mộc nhĩ, gia vị	Mặn, thơm	Hầm, để nguội	Món tết	Đồng Bằng Sông Hồng	https://cdn.tgdd.vn/2020/08/CookProduct/Untitled-1-1200x676-9.jpg	60000	1
+86	Mắm tép chưng thịt	Thịt băm, mắm tép, hành khô	Mặn, đậm	Chưng	Món chính	Đồng Bằng Sông Hồng	https://cdn.tgdd.vn/Files/2021/09/30/1386756/huong-dan-cach-lam-mam-tep-chung-thit-dam-da-dua-com-202109301126512977.jpg	50000	1
+87	Canh hến nấu chua	Hến, dứa, cà chua, rau răm	Chua, ngọt	Nấu	Món chính	Bắc Trung Bộ	https://cdn.tgdd.vn/2020/12/CookProduct/canh-chua-hen-nau-khe-thumbnail-730x448.jpg	70000	1
+88	Thịt lợn giả cầy	Thịt chân giò, riềng, mắm tôm	Mặn, cay nhẹ	Nấu giả cầy	Món chính	Đồng Bằng Sông Hồng	https://i.ytimg.com/vi/I792Kexi7Co/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDAEd-NvkIzxjz_uRxFwBsSEF4nvA	80000	1
+89	Bún chả que tre	Thịt nướng xiên que, bún, nước chấm	Đậm, thơm	Nướng, chan	Món chính	Đồng Bằng Sông Hồng	https://i-dulich.vnecdn.net/2014/10/21/Quang-lam-jpeg-8109-1413866623.jpg	80000	1
+90	Bánh bao chay	Bột mì, rau củ, nấm hương	Nhạt, thơm	Hấp	Món chay	Đồng Bằng Sông Hồng	https://thophat.com/wp-content/uploads/2022/03/BB-Chay-400g-1.jpg	50000	1
+91	Canh trứng cải cúc	Trứng, rau cải cúc, hành	Ngọt, thanh	Nấu canh	Món chính	Đồng Bằng Sông Hồng	https://cdn2.fptshop.com.vn/unsafe/1920x0/filters:format(webp):quality(75)/2023_10_26_638339154202429098_canh-cai-cuc-thumb.jpeg	50000	1
+92	Thịt băm viên	Thịt băm, hành, trứng, gia vị	Đậm, mềm	Viên, chiên	Món chính	Đồng Bằng Sông Hồng	https://i.ytimg.com/vi/yGZ5PcKe_xs/maxresdefault.jpg	80000	1
+93	Bắp cải cuốn thịt	Bắp cải, thịt băm, miến	Nhẹ, thanh	Hấp	Món chính	Đồng Bằng Sông Hồng	https://cdn.pastaxi-manager.onepas.vn/content/uploads/articles/sudt/hoamkt/New%20folder/cach-lam-bap-cai-cuon-thit-hap.jpg	50000	1
+94	Gà nướng mật ong	Gà, mật ong, tiêu, tỏi	Ngọt, thơm	Nướng	Món chính	Đông Nam Bộ	https://file.hstatic.net/200000700229/article/lam-dui-ga-nuong-mat-ong-bang-lo-nuong-1_e17f9ace600a40018ed4fd25b8d1f30f.jpg	50000	1
+95	Thịt quay bì giòn	Thịt ba chỉ, muối, giấm	Mặn, giòn	Quay	Món chính	Đồng Bằng Sông Hồng	https://i.ytimg.com/vi/x56JojQRJCI/maxresdefault.jpg	50000	1
+96	Bánh đa nem	Bánh tráng, thịt, miến, rau củ	Giòn, thơm	Cuốn, rán	Món chính	Đồng Bằng Sông Hồng	https://daylambanh.edu.vn/wp-content/uploads/2019/03/banh-da-nem-thom-ngon-600x400.jpg	60000	1
+97	Bún ốc	Ốc, bún, dọc mùng, mắm tôm	Chua, cay	Luộc, chan	Món chính	Đồng Bằng Sông Hồng	https://i-giadinh.vnecdn.net/2022/08/06/Thnhphm22-1659778295-5035-1659778478.jpg	80000	1
+98	Nộm bò khô	Thịt bò khô, đu đủ xanh, lạc, rau thơm	Chua, cay, ngọt	Trộn	Món ăn vặt	Đồng Bằng Sông Hồng	https://cdn.tgdd.vn/Files/2021/08/14/1375232/hoc-cach-lam-mon-nom-bo-kho-thom-ngon-chuan-vi-ngon-pho-co-202201060956067734.jpg	80000	1
+99	cá quả nướng	thịt, rau, gia vị truyền thống	đậm, béo	kho	món khai vị	Đồng Bằng Sông Hồng	https://cdn2.fptshop.com.vn/unsafe/1920x0/filters:format(webp):quality(75)/2024_2_26_638445101147783168_cach-nuong-ca-qua-bang-noi-chien-khong-dau.jpg	50000	1
+100	Cá rô chiên giòn	Cá rô, bột chiên, gia vị	Giòn, mặn	Chiên giòn	Món chính	Đồng Bằng Sông Hồng	https://cdn2.fptshop.com.vn/unsafe/1920x0/filters:format(webp):quality(75)/2024_2_21_638441358810218705_bat-mi-cach-lam-ca-ro-phi-chien-gion.png	80000	1
+101	Cá chép hấp xì dầu	Cá chép, xì dầu, gừng, hành	Đậm, thơm	Hấp	Món chính	Đồng Bằng Sông Hồng	https://cdn2.fptshop.com.vn/unsafe/1920x0/filters:format(webp):quality(75)/2023_12_8_638376342151080763_ca-hap-xi-dau-thumb.jpg	60000	1
+102	Súp lươn	Lươn, hành tăm, nghệ, tiêu	Cay nhẹ, đậm	Nấu súp	Món chính, món sáng	Bắc Trung Bộ	https://cachnaumonngon.com/uploads/images/editor/meo-rut-xuong-luon.jpg	80000	1
+103	Bánh cuốn nhân thịt	Bột gạo, thịt băm, mộc nhĩ, hành khô	Mềm, thơm	Hấp	Món sáng	Đồng Bằng Sông Hồng	https://file.hstatic.net/200000318501/article/banh-cuon-nhan-thit-1_473c562f1d654e5f8aa7f3516ab5ffff.jpg	60000	1
+104	Gỏi xoài	Xoài xanh, tôm khô, đậu phộng	Chua, ngọt, cay	Trộn	Món ăn kèm	Đông Nam Bộ	https://cdn.tgdd.vn/2020/06/CookRecipe/GalleryStep/thanh-pham-8.png	50000	1
+105	Nộm sứa	Sứa, đu đủ xanh, rau thơm	Mặn, chua, thanh	Trộn	Món khai vị	Duyên Hải Nam Trung Bộ	https://cdn.tgdd.vn/Files/2016/04/02/810969/tu-lam-nom-sua-thom-ngon-tai-nha-4.jpg	60000	1
+106	Bún nem	Bún, nem rán, rau sống, nước chấm	Đậm, chua ngọt	Cuốn, chan	Món chính	Đồng Bằng Sông Hồng	https://bunchasinhtu.vn/wp-content/uploads/2018/04/bun-nem-300x241.jpg	70000	1
+107	Mướp đắng nhồi thịt	Mướp đắng, thịt băm, hành	Đắng nhẹ, đậm	Hấp, nấu canh	Món chính	Đồng Bằng Sông Hồng	https://i.ytimg.com/vi/LGmrXnsDaD8/maxresdefault.jpg	80000	1
+108	Trứng vịt lộn	Trứng vịt lộn, rau răm, gừng	Bùi, béo	Luộc	Món ăn vặt	Đông Nam Bộ	https://suckhoedoisong.qltns.mediacdn.vn/Images/thanhloan/2017/05/01/an-trung-vit-nhu-the-nao-de-tot-cho-suc-khoe-9.jpg	70000	1
+109	Cơm gà Tam Kỳ	Gà ta, cơm nấu nước luộc gà, rau răm	Mặn, thơm	Luộc, trộn	Món chính	Duyên Hải Nam Trung Bộ	https://static.vinwonders.com/production/gia-nem-chua-o-thanh-hoa.jpg	70000	1
+110	Mì Quảng	Mì quảng, thịt, tôm, trứng, rau sống	Đậm, thơm	Luộc, chan ít nước	Món chính	Duyên Hải Nam Trung Bộ	https://static.vinwonders.com/production/com-ga-tam-ky-7.jpg	70000	1
+111	Cơm hến Huế	Hến, cơm nguội, rau sống, tóp mỡ	Cay, mặn	Trộn	Món chính	Bắc Trung Bộ	https://thuanchay.vn/wp-content/uploads/2024/09/cach-nau-mi-quang-chay-8-1-1.webp	80000	1
+112	Bánh canh cá lóc Quảng Trị	Cá lóc, bánh canh, rau thơm	Đậm, thơm	Luộc, chan	Món chính	Bắc Trung Bộ	https://ddk.1cdn.vn/2024/12/26/anhtrenphai.jpg	80000	1
+113	Bún bò Huế	Bún, thịt bò, giò, mắm ruốc	Cay, đậm	Hầm, chan	Món chính	Bắc Trung Bộ	https://ticotravel.com.vn/wp-content/uploads/2024/04/banh-canh-ca-loc-quang-tri-7.jpg	70000	1
+114	Bánh mướt Diễn Châu	Bột gạo, hành phi, chả	Mềm, thơm	Tráng, hấp	Món sáng	Bắc Trung Bộ	https://daivietourist.vn/wp-content/uploads/2025/04/quan-bun-bo-hue-1.jpg	80000	1
+115	Nhút Thanh Chương	Xơ mít non, muối, ớt	Mặn, chua nhẹ	Muối chua	Món ăn kèm	Bắc Trung Bộ	https://vcdn1-dulich.vnecdn.net/2019/02/13/BanhmuotxaolongNgheAnVnExpress-4501-9779-1550068617.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=q9qyUY2WzLr3JQjV6jDtew	50000	1
+116	Bánh bèo Hà Tĩnh	Bột gạo, tôm, hành phi	Mềm, mặn	Hấp	Món ăn chơi	Bắc Trung Bộ	https://i-giadinh.vnecdn.net/2022/11/03/Thanh-pham-1-1-5009-1667468527.jpg	50000	1
+117	Bánh khoái Quảng Trị	Bột gạo, tôm, giá đỗ, rau sống	Giòn, béo	Chiên	Món ăn chơi	Bắc Trung Bộ	https://dulichhatinh.com.vn/wp-content/uploads/2024/11/banh-beo-ha-tinh.png	80000	1
+118	Thịt trâu lá trơng Quảng Trị	Thịt trâu, lá trơng, gia vị	Cay, đậm	Xào, nướng	Món chính	Bắc Trung Bộ	https://bazantravel.com/cdn/medias/uploads/28/28948-banh-khoai-da-nang.jpg	60000	1
+119	Mực nhảy Vũng Áng	Mực tươi, nước mắm, ớt	Ngọt, tươi	Hấp, nướng	Món chính	Bắc Trung Bộ	https://luhanhvietnam.com.vn/du-lich/vnt_upload/news/12_2020/thit-trau-la-trong-quang-tri_1.jpg	60000	1
+120	Bánh ướt Huế	Bánh ướt, chả, hành phi	Mềm, thơm	Hấp, tráng	Món sáng	Bắc Trung Bộ	https://cdnv2.tgdd.vn/mwg-static/common/Common/893943ksdsld.jpg	50000	1
+121	Cháo lươn Nghệ An	Lươn, gạo, hành tăm	Cay nhẹ, đậm	Nấu cháo	Món chính	Bắc Trung Bộ	https://media-cdn-v2.laodong.vn/storage/newsportal/2023/12/7/1276969/Banh-Uot-Heo-Quay-Ba.jpeg	70000	1
+122	Nem lụi Đà Nẵng	Thịt băm, sả, bánh tráng, rau sống	Đậm, cay	Nướng	Món chính	Duyên Hải Nam Trung Bộ	https://static.vinwonders.com/production/chao-luon-ba-lan-nghe-an.jpg	50000	1
+123	Gỏi sứa miền Trung	Sứa, rau thơm, đậu phộng	Mặn, chua	Trộn	Món khai vị	Duyên Hải Nam Trung Bộ	https://2trip.vn/wp-content/uploads/2022/12/nem-lui-da-nang.jpg	80000	1
+124	Gà nướng Bản Đôn	Gà, lá é, gia vị	Thơm, đậm	Nướng	Món chính	Tây Nguyên	https://file.hstatic.net/200000700229/article/ga-nuong-ban-don-1_e5dc25c4955e48f2817a8cd2c14eee91.jpg	70000	1
+125	Cà đắng nấu cá	Cà đắng, cá suối, rau rừng	Đắng, mặn	Nấu canh	Món chính	Tây Nguyên	https://cdn.tgdd.vn/2020/12/CookRecipe/Avatar/ca-dang-kho-ca-hop-thumbnail.jpg	70000	1
+126	Bò một nắng Krông Pa	Thịt bò, muối, ớt, mắc khén	Mặn, cay	Phơi nắng, nướng	Món đặc sản	Tây Nguyên	https://file.hstatic.net/1000300839/file/vove_4_0f9b35e6b6dc4ed3934413ed27f245b4_grande.png	70000	1
+127	Gỏi lá Kon Tum	Lá rừng, thịt ba chỉ, nước chấm	Chua, thanh	Cuốn, trộn	Món khai vị	Tây Nguyên	https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLJnjcS9RU8acMrm6M-ykS08vbkZSF5e61TA&s	50000	1
+128	Măng nướng	Măng tươi, muối, ớt	Ngọt, thơm	Nướng	Món ăn kèm	Tây Nguyên	https://image.vovworld.vn/w500/uploaded/vovworld/thpsplu/2022_05_07/mangnuong_bqyu.jpg	60000	1
+129	Canh thụt đọt mây	Đọt mây, cá khô, măng, ớt	Đắng, cay	Thụt	Món chính	Tây Nguyên	https://dulich.daknong.gov.vn/DataFiles/2022/03/Nodes/20220316-101329-Pbi8fwCA.jpg	60000	1
+130	Heo rừng nướng	Thịt heo rừng, muối ớt, lá mắc mật	Đậm, thơm	Nướng	Món chính	Tây Nguyên	https://cdn2.fptshop.com.vn/unsafe/1920x0/filters:format(webp):quality(75)/thit_heo_rung_nuong_0_62f97bd33c.png	80000	1
+131	Măng chua xào	Măng chua, tỏi, ớt	Chua, cay nhẹ	Xào	Món ăn kèm	Tây Nguyên	https://cdn.tgdd.vn/Files/2022/07/14/1447865/mach-ban-cach-lam-mang-xao-ca-chua-don-gian-cuc-hao-com-202207141444019752.jpg	50000	1
+132	Rượu cần	Men rượu, nếp than, lá rừng	Ngọt nhẹ, cay	Lên men	Đồ uống	Tây Nguyên	https://tourdanangcity.vn/wp-content/uploads/2023/06/ruou-can-hoa-binh-1.jpg	70000	1
+133	Cá khô sông Sê San	Cá sông, muối	Mặn	Phơi khô	Món ăn kèm	Tây Nguyên	https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSatF-q9ZHdtI1MOvviO1lZSXHZxd9ew4WM4A&s	60000	1
+134	Canh lá bép	Lá bép, tôm khô, nước mắm	Ngọt, mát	Nấu canh	Món chính	Tây Nguyên	https://img-global.cpcdn.com/recipes/e9d1c09ed1045de3/680x781f0.500632_0.5_1.0q80/canh-la-bep-recipe-main-photo.jpg	70000	1
+135	Dế chiên giòn	Dế, bột, gia vị	Giòn, béo	Chiên	Món ăn chơi	Tây Nguyên	https://mia.vn/media/uploads/blog-du-lich/de-men-chien-yen-bai-mon-dac-san-doc-la-rat-duoc-long-thuc-khach-01-1646121290.jpg	50000	1
+136	Bánh canh cá lóc	Cá lóc, bánh canh, rau thơm	Đậm, thơm	Luộc, chan	Món chính	Duyên Hải Nam Trung Bộ	https://mia.vn/media/uploads/blog-du-lich/banh-canh-ca-loc-mon-an-dan-da-khong-the-thieu-cua-nguoi-dan-xu-hue-1637748097.jpg	80000	1
+137	Cháo măng	Măng, gạo, thịt băm	Ngọt, thơm	Nấu cháo	Món chính	Tây Nguyên	https://img-global.cpcdn.com/recipes/51f73a9f10c651aa/680x781cq80/chao-mang-chay-recipe-main-photo.jpg	70000	1
+138	Cà đắng kho cá khô	Cà đắng, cá khô, tiêu	Đắng, mặn	Kho	Món chính	Tây Nguyên	https://cdn.tgdd.vn/Files/2021/07/17/1368762/huong-dan-cach-lam-goi-ca-dang-ca-kho-202107171007299234.jpg	70000	1
+139	Mật ong rừng	Mật ong tự nhiên	Ngọt	Dùng sống	Đồ uống, tẩm bổ	Tây Nguyên	https://media.loveitopcdn.com/6458/thumb/mua-mat-ong-rung-lam-dep-da.jpg	50000	1
+140	Măng hầm xương	Măng tươi, xương heo, gia vị	Ngọt, đậm	Hầm	Món chính	Tây Nguyên	https://cdn.tgdd.vn/2021/09/CookProduct/Canhmangkhonauxuong-1200x676.jpg	70000	1
+141	Lẩu cá linh bông điên điển	Cá linh, bông điên điển, me	Chua, ngọt	Nấu lẩu	Món chính	Đồng Bằng Sông Cửu Long	https://cdn.tgdd.vn/2020/06/CookProductThumb/thum620-620x620-6.jpg	70000	1
+142	Bánh xèo miền Đông	Bột gạo, thịt, tôm, giá, rau sống	Giòn, béo	Chiên	Món chính	Đông Nam Bộ	https://mia.vn/media/uploads/blog-du-lich/dan-da-dam-vi-lau-ca-linh-bong-dien-dien-can-tho-2-1649776666.jpeg	50000	1
+143	Cơm tấm Sài Gòn	Cơm tấm, sườn nướng, trứng ốp la	Mặn, thơm	Nướng, chiên	Món chính	Đông Nam Bộ	https://i-giadinh.vnecdn.net/2023/09/19/Buoc-10-Thanh-pham-1-1-5225-1695107554.jpg	80000	1
+144	Gỏi đu đủ tôm thịt	Đu đủ xanh, tôm, thịt luộc, rau thơm	Chua, ngọt, cay	Trộn	Món khai vị	Đông Nam Bộ	https://static.vinwonders.com/production/com-tam-sai-gon-2.jpg	50000	1
+145	Bánh canh giò heo	Bánh canh, giò heo, hành	Đậm, thơm	Hầm, chan	Món chính	Đông Nam Bộ	https://img-global.cpcdn.com/recipes/47482e32137cc16a/400x400cq80/photo.jpg	80000	1
+146	Hủ tiếu Mỹ Tho	Hủ tiếu, thịt, tôm, trứng cút	Thanh, ngọt	Luộc, chan	Món chính	Đồng Bằng Sông Cửu Long	https://ticotravel.com.vn/wp-content/uploads/2023/02/banh-canh-gio-heo-1.jpg	50000	1
+147	Gà hấp rượu	Gà, rượu trắng, gừng	Thơm, đậm	Hấp	Món chính, tẩm bổ	Đông Nam Bộ	https://i-dulich.vnecdn.net/2016/05/23/1-6532-1464000261.jpg	60000	1
+148	Lẩu mắm	Mắm cá, thịt, rau, bún	Mặn, đậm, thơm	Nấu lẩu	Món chính	Đồng Bằng Sông Cửu Long	https://cdn.tgdd.vn/2020/06/CookProduct/Untitled-3-1200x676.jpg	80000	1
+149	Cá lóc nướng trui	Cá lóc, sả, muối ớt	Thơm, đậm	Nướng trui	Món chính	Đồng Bằng Sông Cửu Long	https://heyyofoods.com/wp-content/uploads/2024/03/3-4.jpg	80000	1
+150	Bún mắm	Bún, mắm cá, tôm, mực, rau sống	Mặn, thơm	Nấu nước, chan	Món chính	Đồng Bằng Sông Cửu Long	https://cdn.tgdd.vn/Files/2020/06/14/1262999/cach-lam-ca-loc-nuong-trui-thom-lung-hap-dan-don-760x367.jpg	60000	1
+151	Bánh pía Sóc Trăng	Đậu xanh, sầu riêng, trứng muối, bột mì	Ngọt, béo	Nướng	Món tráng miệng, đặc sản	Đồng Bằng Sông Cửu Long	https://cdn.tgdd.vn/Files/2019/03/12/1154316/cach-nau-bun-mam-mien-tay-chuan-thom-ngon-don-gian-tai-nha-202112211640380018.jpg	60000	1
+152	Lẩu cá kèo lá giang	Cá kèo, lá giang, rau nhúng	Chua, cay	Nấu lẩu	Món chính	Đồng Bằng Sông Cửu Long	https://www.lobanhtanhung.com/web/wp-content/uploads/2017/12/banh-pia-soc-trang-thv.jpg	70000	1
+153	Bún nước lèo	Bún, cá lóc, mắm, rau sống	Mặn, thơm	Nấu nước lèo, chan	Món chính	Đồng Bằng Sông Cửu Long	https://cdn.tgdd.vn/Files/2020/01/14/1231466/2-cach-nau-lau-ca-keo-dam-da-thom-ngon-nhu-ngoai-hang-8.jpg	70000	1
+154	Cháo cá lóc	Cá lóc, gạo, hành, tiêu	Ngọt, thơm	Nấu cháo	Món chính	Đồng Bằng Sông Cửu Long	https://cdn.tgdd.vn/Files/2020/07/01/1266749/cach-nau-bun-nuoc-leo-soc-trang-ngon-dam-da-chuan-vi-an-mot-lan-la-nho-mai-202208301437543598.jpg	60000	1
+155	Bánh tét lá cẩm	Gạo nếp, đậu xanh, thịt mỡ, lá cẩm	Béo, ngọt	Luộc	Món tết, món tráng miệng	Đồng Bằng Sông Cửu Long	https://i.ytimg.com/vi/8SrK1K5oKBM/maxresdefault.jpg	80000	1
+156	Lẩu lươn lá giang	Lươn, lá giang, rau, gia vị	Chua, cay	Nấu lẩu	Món chính	Đồng Bằng Sông Cửu Long	https://cdn.tgdd.vn/Files/2020/10/17/1299746/mach-ban-cach-lam-banh-tet-la-cam-dac-san-can-tho-sieu-dep-202401251409177222.jpeg	60000	1
+157	Cá hú kho tộ	Cá hú, nước mắm, tiêu, hành	Mặn, béo	Kho	Món chính	Đồng Bằng Sông Cửu Long	https://www.sgtiepthi.vn/wp-content/uploads/2021/05/T7_lauluonlagiang_cet.edu_.jpg	80000	1
+158	Cá basa nướng muối ớt	Cá basa, muối ớt, tỏi	Cay, đậm	Nướng	Món chính	Đồng Bằng Sông Cửu Long	https://cdn3.ivivu.com/2020/05/ca-hu-ivivu-3.jpg	80000	1
+159	Gỏi xoài khô cá sặc	Xoài xanh, khô cá sặc, rau thơm	Chua, mặn, cay	Trộn	Món khai vị	Đồng Bằng Sông Cửu Long	https://cdn.tgdd.vn/2021/02/CookProduct/CaBasanuongmuoiot1200-1200x675.jpg	70000	1
+160	Bánh cống Sóc Trăng	Bột gạo, tôm, đậu xanh	Giòn, béo	Chiên	Món ăn chơi	Đồng Bằng Sông Cửu Long	https://cdn.tgdd.vn/Files/2021/08/10/1374365/cach-lam-goi-xoai-kho-ca-sac-thom-ngon-an-la-ghien-202108102122481482.jpg	80000	1
+161	Lẩu bò Tây Ninh	Thịt bò, sa tế, rau, mắm nêm	Cay, đậm	Nấu lẩu	Món chính	Đông Nam Bộ	https://i-dulich.vnecdn.net/2022/10/13/-4702-1665656433.jpg	70000	1
+162	Bánh hỏi thịt nướng	Bánh hỏi, thịt nướng, mỡ hành, rau sống	Đậm, béo	Nướng, cuốn	Món chính	Đông Nam Bộ	https://luhanhvietnam.com.vn/du-lich/vnt_upload/news/05_2022/quan-to-ngon-o-tay-ninh-tan-loc2.jpg	80000	1
+163	Bún thịt nướng	Bún, thịt nướng, rau, nước mắm	Đậm, chua ngọt	Nướng, chan	Món chính	Đông Nam Bộ	https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYO8iHu5fGx0H0PEeNrfiEPDG41EruEMKiIw&s	50000	1
+164	Gà nướng lá chúc	Gà, lá chúc, gia vị	Thơm, đậm	Nướng	Món chính	Đông Nam Bộ	https://www.cet.edu.vn/wp-content/uploads/2018/03/bun-thit-nuong-kieu-mien-nam.jpg	70000	1
+165	Bánh khọt Vũng Tàu	Bột gạo, tôm, nước cốt dừa, rau sống	Giòn, béo	Chiên	Món ăn chơi	Đông Nam Bộ	https://cdn.tgdd.vn/Files/2021/08/23/1377175/cach-lam-ga-dot-la-chuc-o-thum-thom-ngon-chuan-vi-an-giang-202112281620336574.jpg	50000	1
+166	Cơm cháy kho quẹt	Cơm cháy, nước mắm, tôm khô, tóp mỡ	Giòn, mặn, ngọt	Kho, chiên	Món ăn kèm	Đồng Bằng Sông Cửu Long	https://bazantravel.com/cdn/medias/uploads/82/82521-banh-khot-700x700.jpg	70000	1
+167	Gỏi gà bắp cải	Gà luộc, bắp cải, rau răm, hành phi	Chua, mặn, thơm	Trộn	Món khai vị	Đông Nam Bộ	https://kimhang.com.vn/wp-content/uploads/2024/05/Kham-pha-ngay-cach-lam-com-chay-kho-quet-thom-ngon-gion-rum-ngay-tai-nha-1-1024x662.png	50000	1
+168	Lẩu cá thác lác	Cá thác lác, thì là, rau, nấm	Thanh, đậm	Nấu lẩu	Món chính	Đồng Bằng Sông Cửu Long	https://file.hstatic.net/200000385717/file/goi_ga_dbff835d14574acba0547dfc552be75c_grande.jpg	60000	1
+169	Mực nướng sa tế	Mực, sa tế, tỏi ớt	Cay, thơm	Nướng	Món chính	Duyên Hải Nam Trung Bộ	https://i.ytimg.com/vi/vAkBOiOaAiM/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLB3XmK9e7q5E5xsBYZ5dYicjU5aBw	80000	1
+170	Bánh xèo miền Tây	Bột gạo, tôm, thịt, giá đỗ, rau sống	Giòn, béo	Chiên	Món chính	Đồng Bằng Sông Cửu Long	https://sakos.vn/wp-content/uploads/2024/09/bia-2.jpg	60000	1
+171	Chuột đồng nướng	Chuột đồng, sả, muối ớt	Thơm, đậm	Nướng	Món đặc sản	Đồng Bằng Sông Cửu Long	https://static-images.vnncdn.net/files/publish/2023/6/27/chuot-dong-nuong-va-loai-dac-san-vinh-long-nuc-tieng-776.jpg	80000	1
+172	Gỏi bông súng	Bông súng, tôm, thịt ba chỉ, rau thơm	Chua, ngọt, thanh	Trộn	Món khai vị	Đồng Bằng Sông Cửu Long	https://cdn.tgdd.vn/2021/10/CookRecipe/Avatar/goi-bong-sung-tom-thit-thumbnail.jpg	70000	1
+173	Cá kèo kho tộ	Cá kèo, nước mắm, tiêu	Mặn, đậm	Kho	Món chính	Đồng Bằng Sông Cửu Long	https://i-ngoisao.vnecdn.net/2019/11/05/70322248-745588472550432-36524-4729-4839-1572958773.jpg	70000	1
+174	Bún cá	Bún, cá, rau, nước dùng	Thanh, đậm	Nấu, chan	Món chính	Duyên Hải Nam Trung Bộ	https://cdn.tgdd.vn/Files/2020/04/03/1246339/cach-nau-bun-ca-ha-noi-thom-ngon-chuan-vi-khong-ta-13.jpg	50000	1
+175	Bánh cống	Bột gạo, đậu xanh, tôm	Giòn, béo	Chiên	Món ăn chơi	Đồng Bằng Sông Cửu Long	https://i.ytimg.com/vi/MorXZHYx8Lg/maxresdefault.jpg	80000	1
+176	Cá linh kho mía	Cá linh, mía, nước mắm	Ngọt, đậm	Kho	Món chính	Đồng Bằng Sông Cửu Long	https://danviet.ex-cdn.com/files/f1/upload/4-2015/images/2015-10-17/1445047776-ca-linh-kho-mia2.jpg	70000	1
+177	Vịt nấu chao	Vịt, chao, khoai môn, rau muống	Béo, thơm	Hầm	Món chính	Đồng Bằng Sông Cửu Long	https://cdn.tgdd.vn/Files/2018/03/13/1074185/bi-quyet-lam-vit-nau-chao-ngon-thit-mem-khong-bi-hoi-202201101537106817.jpg	50000	1
+178	Mắm kho	Mắm cá, thịt, tôm, rau	Mặn, đậm	Kho	Món chính	Đồng Bằng Sông Cửu Long	https://monngonmoingay.com/wp-content/smush-webp/2019/09/nam-kho-500.jpg.webp	60000	1
+179	Ốc hấp sả	Ốc, sả, gừng	Thơm, ngọt	Hấp	Món ăn chơi	Đồng Bằng Sông Cửu Long	https://cdn.tgdd.vn/Files/2020/04/17/1249624/2-cach-lam-oc-hap-tieu-hap-sa-kieu-thai-thom-ngon-7-760x367.jpg	50000	1
+180	Tôm nướng muối ớt	Tôm, muối ớt, tỏi	Cay, mặn	Nướng	Món chính	Duyên Hải Nam Trung Bộ	https://www.huongnghiepaau.com/wp-content/uploads/2016/04/cach-lam-tom-nuong-muoi-ot.jpg	80000	1
+181	Lươn um lá nhàu	Lươn, lá nhàu, nghệ, gia vị	Cay, đậm	Um	Món chính	Đồng Bằng Sông Cửu Long	https://mia.vn/media/uploads/blog-du-lich/cach-lam-luon-um-la-nhau-mien-nam-thom-ngon-bo-duong-5-1663314399.jpeg	60000	1
+182	Bánh ít trần	Bột nếp, thịt băm, mộc nhĩ	Mềm, đậm	Hấp	Món ăn chơi	Duyên Hải Nam Trung Bộ	https://banhbaominh.com/wp-content/uploads/2023/10/banh-it-tran-deo-thom-dam-vi-truyen-thong-banh-it-tran3.png	60000	1
+183	Bánh tráng cuốn thịt heo	Bánh tráng, thịt luộc, rau sống	Thanh, đậm	Cuốn	Món chính	Duyên Hải Nam Trung Bộ	https://beptruong.edu.vn/wp-content/uploads/2021/01/hinh-anh-banh-trang-cuon-thit-heo.jpg	50000	1
+184	Cao lầu	Mì sợi, thịt xá xíu, rau sống	Đậm, thơm	Trộn, chan ít nước	Món chính	Duyên Hải Nam Trung Bộ	https://i-giadinh.vnecdn.net/2023/03/13/Buoc-7-Thanh-pham-1-7-9577-1678700377.jpg	70000	1
+185	Bún chả cá Nha Trang	Chả cá, bún, nước dùng	Đậm, thơm	Nấu nước, chan	Món chính	Duyên Hải Nam Trung Bộ	https://cdn.tgdd.vn/2021/09/CookRecipe/Avatar/bun-cha-ca-nha-trang-thumbnail.jpg	50000	1
+186	Bánh xèo Quảng Nam	Bột gạo, tôm, thịt, giá đỗ	Giòn, béo	Chiên	Món chính	Duyên Hải Nam Trung Bộ	https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaBUH89NX6xqs_KdnVZU2ornu8GDX-jL_g4w&s	70000	1
+187	Gỏi cá mai	Cá mai, rau thơm, thính, chanh	Chua, thanh	Trộn	Món khai vị	Duyên Hải Nam Trung Bộ	https://poseidon-web.s3.zsoft.solutions/app/media/Kham-pha-am-thuc/03.2024/18324-goi-ca-mai-1.jpg	70000	1
+188	Mực một nắng nướng	Mực một nắng, muối ớt	Mặn, thơm	Nướng	Món chính	Duyên Hải Nam Trung Bộ	https://comnieuvietnam.vn/wp-content/uploads/2024/01/Muc-Mot-Nang-Phu-Quoc-Nuong-Nha-Hang-Com-Nieu-Viet-Nam-2024-jpg.webp	50000	1
+189	Bánh bèo chén	Bột gạo, tôm, hành phi	Mềm, mặn	Hấp	Món ăn chơi	Duyên Hải Nam Trung Bộ	https://cdn.tgdd.vn/2021/07/CookRecipe/GalleryStep/thanh-pham-1349.jpg	60000	1
+190	Nem nướng Nha Trang	Thịt nướng xiên, bánh tráng, rau sống	Đậm, béo	Nướng, cuốn	Món chính	Duyên Hải Nam Trung Bộ	https://i2.ex-cdn.com/crystalbay.com/files/content/2023/11/12/nem-nuong-nha-trang-1535.jpg	60000	1
+191	Bún sứa Nha Trang	Sứa, bún, rau sống, nước lèo	Mặn, thanh	Nấu nước, chan	Món chính	Duyên Hải Nam Trung Bộ	https://statics.vinpearl.com/bun-sua-nha-trang-2_1632704311.jpg	70000	1
+192	Chả ram tôm đất	Tôm, bánh tráng, hành	Giòn, đậm	Chiên	Món ăn chơi	Duyên Hải Nam Trung Bộ	https://file.hstatic.net/1000030244/article/artboard_11_2402a262bd0c45a8bb1a6259513700cf.jpg	60000	1
+193	Cá bớp kho tộ	Cá bớp, nước mắm, tiêu	Mặn, béo	Kho	Món chính	Duyên Hải Nam Trung Bộ	https://file.hstatic.net/1000030244/article/artboard_11_2402a262bd0c45a8bb1a6259513700cf.jpg	50000	1
+194	Cá thu nướng	Cá thu, muối ớt, tiêu	Mặn, thơm	Nướng	Món chính	Duyên Hải Nam Trung Bộ	https://i-giadinh.vnecdn.net/2023/09/16/Bc4Thnhphm11-1694856717-6271-1694856861.jpg	70000	1
+195	Mì Quảng gà	Mì quảng, thịt gà, rau sống	Đậm, thơm	Nấu, chan ít nước	Món chính	Duyên Hải Nam Trung Bộ	https://media.vietnamplus.vn/images/7255a701687d11cb8c6bbc58a6c80785a9b8a28f189062cf15715aaeb6eeebf8174f99d13feeb5ffad4da1f29337193d/0801_ca_thu.jpg	80000	1
+196	Bánh hỏi lòng heo	Bánh hỏi, lòng heo, rau sống, nước mắm	Đậm, béo	Luộc, cuốn	Món chính	Duyên Hải Nam Trung Bộ	https://i-giadinh.vnecdn.net/2022/10/07/-1238-1665132014.jpg	80000	1
+197	Gỏi cá trích	Cá trích sống, rau thơm, dừa nạo	Chua, thơm	Trộn	Món khai vị	Duyên Hải Nam Trung Bộ	https://mia.vn/media/uploads/blog-du-lich/banh-hoi-long-heo-phu-yen-mon-ngon-khong-the-bo-qua-khi-den-phu-yen-01-1636735565.jpg	70000	1
+198	Cháo hải sản	Tôm, mực, gạo, hành	Ngọt, thơm	Nấu cháo	Món chính	Duyên Hải Nam Trung Bộ	https://cdn.tgdd.vn/Files/2020/06/24/1265272/nghe-nguoi-dan-phu-quoc-chia-se-cach-lam-goi-ca-trich-gia-truyen-202006241610433670.jpg	50000	1
+199	Mực hấp gừng	Mực tươi, gừng, hành	Ngọt, thơm	Hấp	Món chính	Duyên Hải Nam Trung Bộ	https://i-giadinh.vnecdn.net/2022/09/01/Thanh-pham-1-1-2232-1662004272.jpg	50000	1
+200	Cá mú hấp xì dầu	Cá mú, xì dầu, gừng, hành	Thơm, đậm	Hấp	Món chính	Duyên Hải Nam Trung Bộ	https://gofood.vn//upload/r/tong-hop-tin-tuc/huong-dan-mon-ngon/muc-hap-hanh-gung.jpg	80000	1
+									0
+									0
+									0
+									0
+									0
+									0
+									0
+									0
+									0
+									0
+									0
+									0
+									0
+									0
+									0
+									0
+									0
+									0
+									0
+									0
+									0
+									0
+									0
+									0
+									0
+									0
+									0
+									0
+									0
+									0
+									0
+									0
+									0
+									0
+									0
+									0
+									0
+									0
+									0
+									0
+									0
+									0
+									0
+									0
+									0
+									0
+									0
+									0
+									0
+									0
+									0
+									0
+									0
+									0
+									0
+									0
+									0
+									0
+									0
+									0
+									0
+									0
+									0
+									0
+									0
+									0
+									0
+									0
+									0
+									0
+									0
+									0
+									0
+									0
+									0
+									0
+									0
+									0
+									0
+									0
+									0
+									0
+									0
+									0
+									0
+									0
+									0
+									0
+									0
+									0
+									0
+									0
+									0
+									0
+									0
+									0
+									0
+									0
+									0
+									0
+									0
+									0
+									0
+									0
+									0
+									0
+									0
+									0
+									0
+									0
+									0
+									0
+									0
+									0
+									0
+									0
+									0
+									0
+									0
+									0
+									0
+									0
+									0
+									0
+									0
+327									
+328									
+329									
+330									
+331									
+332									
+333									
+334									
+335									
+336									
+337									
+338									
+339									
+340									
+341									
+342									
+343									
+344									
+345									
+346									
+347									
+348									
+349									
+350									
+351									
+352									
+353									
+354									
+355									
+356									
+357									
+358									
+359									
+360									
+361									
+362									
+363									
+364									
+365									
+366									
+367									
+368									
+369									
+370									
+371									
+372									
+373									
+374									
+375									
+376									
+377									
+378									
+379									
+380									
+381									
+382									
+383									
+384									
+385									
+386									
+387									
+388									
+389									
+390									
+391									
+392									
+393									
+394									
+395									
+396									
+397									
+398									
+399									
+400									
+401									
+402									
+403									
+404									
+405									
+406									
+407									
+408									
+409									
+410									
+411									
+412									
+413									
+414									
+415									
+416									
+417									
+418									
+419									
