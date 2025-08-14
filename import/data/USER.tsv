@@ -1,2 +1,2 @@
-name	yearOfBirth	gender	region	password	    email 	phone	Món thích(Array)	Loại món thích(Array)	Vị thích Array	Thích cách nấu Array	Dị ứng thành phần(Array)
-Thanh	2000	Nữ	Trung du và miền núi phía Bắc		thanh@noemail.xyz		thắng cố,thịt trâu gác bếp		cay,chua	nướng, lẫu	thịt bò, thịt gà, thịt gà
+STT	name	yearOfBirth	gender	region	password	    email 	phone	Món thích(Array)	Loại món thích(Array)	Vị thích Array	Thích cách nấu Array	Dị ứng thành phần(Array)
+1	Thanh	2000	Nữ	Trung du và miền núi phía Bắc		thanh@noemail.xyz		thắng cố,thịt trâu gác bếp		mặn, cay	Luộc, hấp, nướng	thịt bò

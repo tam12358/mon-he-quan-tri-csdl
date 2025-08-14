@@ -283,7 +283,7 @@ OrientDBClient.connect({
     port: 2424
   }).then(client => {
     console.log('connection ok', client);
-    client.session({ name: "testImport", username: "root", password: "Tam@1234" })
+    client.session({ name: "testImport", username: "root", password: "" })
     .then(session => {
             session.batch(batchScript)
             .all()
